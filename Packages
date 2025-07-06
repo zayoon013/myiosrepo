@@ -1,0 +1,64 @@
+Package: com.myapps.myBrowse
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: myApps
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/myBrowse.deb
+Size: 102560
+MD5sum: 6264f8e647dd1ab4f227fa09292c18e9
+SHA1: 25d3ff78da9e1583db8effcbc32bb167c78aa3f5
+SHA256: 0fa6ed79f1619bba6c9370f6ee0e9bdc54ccc66a15fa8bf9de0e2678f20e2edd
+Section: Applications
+Description: myBrowse packaged for myRepo
+Author: myApps
+Name: MyBrowse
+
+Package: com.myapps.myBrowse
+Version: 1.0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: myApps
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.myapps.myBrowse_1.0_iphoneos-arm64.deb
+Size: 100408
+MD5sum: e043b30b2e3306fca4ec19f203064e9e
+SHA1: 762eb21fc5bc6579ea69b11cb9ed1c133e8550ad
+SHA256: 10ba66bd84d5e45e9cd3201932fde8c591212bd69a065e62680ff6fe79a7130b
+Section: Applications
+Description: myBrowse packaged for myRepo
+Author: myApps
+Name: MyBrowse
+
+Package: com.myapps.mytweak
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Zain Abudaqqa
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.myapps.mytweak_0.0.1-1+debug_iphoneos-arm.deb
+Size: 8776
+MD5sum: 76cbdb0deb5637fe82a53fa2449adb54
+SHA1: 13de8b9d5f9c8695cee2e5addc346ae874a588a6
+SHA256: cc18096c6f9dc91fdd9c45e7eacd64be93ada467e9980443756ef8935ca018c1
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Zain Abudaqqa
+Name: myTweak
+
+Package: com.myapps.mytweak
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Zain Abudaqqa
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.myapps.mytweak_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 8870
+MD5sum: 0c6dd30be20bbe1c58110329f7305862
+SHA1: ef55e3372b7560c7581dc83c492e77b86fbd16d3
+SHA256: 216ec0bb4ec0cbe763ce69dc807bf666892fad15c12e97f14fc8d5efa5fd8b60
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Zain Abudaqqa
+Name: myTweak
+
