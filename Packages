@@ -126,3 +126,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: Zain Abudaqqa
 Name: myTweak
 
+Package: com.myc.first
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Zain Abudaqqa
+Installed-Size: 132
+Filename: ./debs/com.myc.first_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 3296
+MD5sum: 3f8df53eaf4a65daf584b84fe8a8f6c0
+SHA1: 6d5708526c82cee4ca57c628677003a0f9908659
+SHA256: 5893571006d798c1a2d9d752f0a29993c5e4db51f1b644575e454e9ab0822d6b
+Section: System
+Description: first
+Tag: role::hacker
+Author: Zain Abudaqqa
+Name: first
+
