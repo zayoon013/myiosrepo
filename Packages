@@ -62,6 +62,38 @@ Description: myNotes packaged for myRepo
 Author: myApps
 Name: myNotes
 
+Package: com.myapps.mySport
+Version: 1.0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: myApps
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.myapps.mySport_1.0_iphoneos-arm64.deb
+Size: 31240
+MD5sum: 7dc77962065be24c2b75be7ac932b0e9
+SHA1: 01aeb125a61c8bb58f4ba2007e412246254cfb90
+SHA256: 203b5fcafad3193d9410b8215b3f37a6bea8f835470b2b7ccf15d3c06be310ca
+Section: Applications
+Description: mySport packaged for myRepo
+Author: myApps
+Name: MySport
+
+Package: com.myapps.mySport
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: myApps
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/mySport.deb
+Size: 31208
+MD5sum: 2662de043225776636f5b90fa976368e
+SHA1: e84e9dffe2acc6660f6654099c7b93cc72fe1ed3
+SHA256: b335992732a555d2200a780dc89e1170972410d83df88462b7ed9531609ed6d1
+Section: Applications
+Description: mySport packaged for myRepo
+Author: myApps
+Name: MySport
+
 Package: com.myapps.mytweak
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
