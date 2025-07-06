@@ -30,6 +30,38 @@ Description: myBrowse packaged for myRepo
 Author: myApps
 Name: MyBrowse
 
+Package: com.myapps.myNotes
+Version: 1.0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: myApps
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.myapps.myNotes_1.0_iphoneos-arm64.deb
+Size: 41404
+MD5sum: a6e34d7f9d7eb3c6a7aff12856a1fce2
+SHA1: cc30e49d2eaa0fa1a69a932bba52cd773cea5ba8
+SHA256: a54ea340e010132a6f97f760a534838ddfa92673c2fc15684234e765a7ae2fb7
+Section: Applications
+Description: myNotes packaged for myRepo
+Author: myApps
+Name: myNotes
+
+Package: com.myapps.myNotes
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: myApps
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/myNotes.deb
+Size: 41328
+MD5sum: 3317f62000042deb6b03659920b9eb06
+SHA1: fc655a11e2acde4959fa6538222f862899186737
+SHA256: cee9e077e898d7fbde25bf081e355398c3b305c8fe163b0fc0417e36f8aa030e
+Section: Applications
+Description: myNotes packaged for myRepo
+Author: myApps
+Name: myNotes
+
 Package: com.myapps.mytweak
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
