@@ -5,10 +5,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/myBrowse.deb
-Size: 102560
-MD5sum: 6264f8e647dd1ab4f227fa09292c18e9
-SHA1: 25d3ff78da9e1583db8effcbc32bb167c78aa3f5
-SHA256: 0fa6ed79f1619bba6c9370f6ee0e9bdc54ccc66a15fa8bf9de0e2678f20e2edd
+Size: 102776
+MD5sum: 2c26da04524469de2b378877b908d447
+SHA1: 51cc4a45f910a8ffe094424ef8eba993feec1d70
+SHA256: 4bba8727685dc2216d51948179df355ee8584769b8001c2fee36d368d784f672
 Section: Applications
 Description: myBrowse packaged for myRepo
 Author: myApps
@@ -21,10 +21,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.myapps.myBrowse_1.0_iphoneos-arm64.deb
-Size: 100408
-MD5sum: e043b30b2e3306fca4ec19f203064e9e
-SHA1: 762eb21fc5bc6579ea69b11cb9ed1c133e8550ad
-SHA256: 10ba66bd84d5e45e9cd3201932fde8c591212bd69a065e62680ff6fe79a7130b
+Size: 100664
+MD5sum: c9647cf8702251af823b40024e3a5719
+SHA1: da41d160ce19c2ed8be950dcb543039607f30205
+SHA256: 7f5989363d770c7313573a7cca0a6edc5d7f93170f43e7555a222fab5c5cae1b
 Section: Applications
 Description: myBrowse packaged for myRepo
 Author: myApps
@@ -37,10 +37,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.myapps.myNotes_1.0_iphoneos-arm64.deb
-Size: 31452
-MD5sum: 96d168cf07707b4bb84885fc217d5a1d
-SHA1: 35f1ac835510b4e197300957ea73c53cc7f275db
-SHA256: cfa5f020438ee565c8c3205c6957b475fbf9e7ab8f844ad62600010cec536bcd
+Size: 31464
+MD5sum: a3194e1cd7f2284b800c1d83195d618c
+SHA1: eca45df864011b8608aaef61136b11fab1f0d02a
+SHA256: 08e6333e833bb7108f37e609422d91650999efda28a360139708d1070d261c31
 Section: Applications
 Description: myNotes packaged for myRepo
 Author: myApps
@@ -53,10 +53,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/myNotes.deb
-Size: 33508
-MD5sum: b7e23e9e8c32e3289322442966b412e8
-SHA1: 222502d31b97255b1835f2bd210fc4608bc3702a
-SHA256: 0ef410613ee9e96d251047fca83a90880c16ebfc904abb245130df61c7e332f0
+Size: 33536
+MD5sum: 461d53bc83f578149c3ebe503bb747c3
+SHA1: 049406c452084638b508eb9b38c5c9e0827de5a1
+SHA256: 3e9ce0028949f2b188411490f5b5dcc18c5a33a1d24fac7fc6b45b13707cef31
 Section: Applications
 Description: myNotes packaged for myRepo
 Author: myApps
@@ -69,10 +69,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.myapps.mySport_1.0_iphoneos-arm64.deb
-Size: 23540
-MD5sum: 12a712440e351254ff87463f4e911adb
-SHA1: fdfe0b2a03b0deb880cb29659d355c0706b68cb1
-SHA256: 829e0fac7b35524a2493022079858871f7c49efb3b99c29b1e0725841e0e5a8c
+Size: 23572
+MD5sum: 323936d6be05a658d5fb39366dca79f7
+SHA1: bdea5a510f3cadf04bd8d6c54fc02b8cd1bb284a
+SHA256: 7093604aa9d8ec456709ca684caec2068910ed513d4b2c92277d3b02d7221e63
 Section: Applications
 Description: mySport packaged for myRepo
 Author: myApps
@@ -85,10 +85,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/mySport.deb
-Size: 25560
-MD5sum: 5842ba100a57a3660b38c735445c7a77
-SHA1: 2cc3acee540bc4950e42ea077ded1e3635d08b5b
-SHA256: 54a44705df6a86a2a44bd436fc2318f1198971aa15a02b19fc48251c66d525f9
+Size: 25568
+MD5sum: 9072ac6339f7816022ae4b4b724b60ca
+SHA1: f6f1297435786dc58530f1267d0d39c1a57bc658
+SHA256: 72dd596f8fd5d7a4a952166f92f3614862f16dbddff0591d5d1b8c666dc28a91
 Section: Applications
 Description: mySport packaged for myRepo
 Author: myApps
