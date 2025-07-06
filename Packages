@@ -37,10 +37,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.myapps.myNotes_1.0_iphoneos-arm64.deb
-Size: 41404
-MD5sum: a6e34d7f9d7eb3c6a7aff12856a1fce2
-SHA1: cc30e49d2eaa0fa1a69a932bba52cd773cea5ba8
-SHA256: a54ea340e010132a6f97f760a534838ddfa92673c2fc15684234e765a7ae2fb7
+Size: 31452
+MD5sum: 96d168cf07707b4bb84885fc217d5a1d
+SHA1: 35f1ac835510b4e197300957ea73c53cc7f275db
+SHA256: cfa5f020438ee565c8c3205c6957b475fbf9e7ab8f844ad62600010cec536bcd
 Section: Applications
 Description: myNotes packaged for myRepo
 Author: myApps
@@ -53,10 +53,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/myNotes.deb
-Size: 41328
-MD5sum: 3317f62000042deb6b03659920b9eb06
-SHA1: fc655a11e2acde4959fa6538222f862899186737
-SHA256: cee9e077e898d7fbde25bf081e355398c3b305c8fe163b0fc0417e36f8aa030e
+Size: 33508
+MD5sum: b7e23e9e8c32e3289322442966b412e8
+SHA1: 222502d31b97255b1835f2bd210fc4608bc3702a
+SHA256: 0ef410613ee9e96d251047fca83a90880c16ebfc904abb245130df61c7e332f0
 Section: Applications
 Description: myNotes packaged for myRepo
 Author: myApps
@@ -69,10 +69,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.myapps.mySport_1.0_iphoneos-arm64.deb
-Size: 31240
-MD5sum: 7dc77962065be24c2b75be7ac932b0e9
-SHA1: 01aeb125a61c8bb58f4ba2007e412246254cfb90
-SHA256: 203b5fcafad3193d9410b8215b3f37a6bea8f835470b2b7ccf15d3c06be310ca
+Size: 23540
+MD5sum: 12a712440e351254ff87463f4e911adb
+SHA1: fdfe0b2a03b0deb880cb29659d355c0706b68cb1
+SHA256: 829e0fac7b35524a2493022079858871f7c49efb3b99c29b1e0725841e0e5a8c
 Section: Applications
 Description: mySport packaged for myRepo
 Author: myApps
@@ -85,10 +85,10 @@ Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/mySport.deb
-Size: 31208
-MD5sum: 2662de043225776636f5b90fa976368e
-SHA1: e84e9dffe2acc6660f6654099c7b93cc72fe1ed3
-SHA256: b335992732a555d2200a780dc89e1170972410d83df88462b7ed9531609ed6d1
+Size: 25560
+MD5sum: 5842ba100a57a3660b38c735445c7a77
+SHA1: 2cc3acee540bc4950e42ea077ded1e3635d08b5b
+SHA256: 54a44705df6a86a2a44bd436fc2318f1198971aa15a02b19fc48251c66d525f9
 Section: Applications
 Description: mySport packaged for myRepo
 Author: myApps
