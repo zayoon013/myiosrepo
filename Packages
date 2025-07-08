@@ -97,7 +97,7 @@ Name: MySport
 Package: com.myapps.mytweak
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
-Maintainer: Zain Abudaqqa
+Maintainer: myApps
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.myapps.mytweak_0.0.1-1+debug_iphoneos-arm.deb
@@ -107,13 +107,13 @@ SHA1: 13de8b9d5f9c8695cee2e5addc346ae874a588a6
 SHA256: cc18096c6f9dc91fdd9c45e7eacd64be93ada467e9980443756ef8935ca018c1
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-Author: Zain Abudaqqa
+Author: myApps
 Name: myTweak
 
 Package: com.myapps.mytweak
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
-Maintainer: Zain Abudaqqa
+Maintainer: myApps
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.myapps.mytweak_0.0.1-2+debug_iphoneos-arm64.deb
@@ -123,13 +123,13 @@ SHA1: ef55e3372b7560c7581dc83c492e77b86fbd16d3
 SHA256: 216ec0bb4ec0cbe763ce69dc807bf666892fad15c12e97f14fc8d5efa5fd8b60
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-Author: Zain Abudaqqa
+Author: myApps
 Name: myTweak
 
 Package: com.myc.first
 Version: 0.0.1-3+debug
 Architecture: iphoneos-arm64
-Maintainer: Zain Abudaqqa
+Maintainer: myApps
 Installed-Size: 132
 Filename: ./debs/com.myc.first_0.0.1-3+debug_iphoneos-arm64.deb
 Size: 3296
@@ -139,6 +139,6 @@ SHA256: 5893571006d798c1a2d9d752f0a29993c5e4db51f1b644575e454e9ab0822d6b
 Section: System
 Description: first
 Tag: role::hacker
-Author: Zain Abudaqqa
+Author: myApps
 Name: first
 
