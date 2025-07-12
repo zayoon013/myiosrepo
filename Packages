@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/cleaned-com.myapps.myBrowse_1.0_iphoneos-arm64.deb
+Filename: debs/cleaned-com.myapps.myBrowse_1.0_iphoneos-arm64.deb
 Size: 100036
 MD5sum: f9a14abcc2310d6817a1b9167ffdfcbc
 SHA1: 6d5e3238d48106a897a2f07f066c18c1685e8ecb
@@ -14,29 +14,13 @@ Description: myBrowse packaged for myRepo
 Author: myApps
 Name: MyBrowse
 
-Package: com.myapps.myBrowse
-Version: 1.0
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: myApps
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/cleaned-myBrowse.deb
-Size: 102484
-MD5sum: d31a1f87a0d8b0918c30a0deff52da32
-SHA1: 676745633b89ef19d33c062e203a8497ca18c794
-SHA256: eab11a68d001e69ce55d37d4fc33e8627573eb6adb6551aaa6a64aa31db47789
-Section: Applications
-Description: myBrowse packaged for myRepo
-Author: myApps
-Name: MyBrowse
-
 Package: com.myapps.myNotes
 Version: 1.0
 Architecture: iphoneos-arm64
 Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/cleaned-com.myapps.myNotes_1.0_iphoneos-arm64.deb
+Filename: debs/cleaned-com.myapps.myNotes_1.0_iphoneos-arm64.deb
 Size: 30784
 MD5sum: 810f2bc407a62097aaf175ac916109a7
 SHA1: bb7876be80a628c413656a5402628f6a48ac903a
@@ -46,29 +30,13 @@ Description: myNotes packaged for myRepo
 Author: myApps
 Name: myNotes
 
-Package: com.myapps.myNotes
-Version: 1.0
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: myApps
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/cleaned-myNotes.deb
-Size: 32904
-MD5sum: 77f4f983e7dfc71f9d43d42212493736
-SHA1: d29107116f4c29ac285897824b69c4297873fa43
-SHA256: 95cd36ec1bd627e0f6fc14bfb3ec111a8ea033a181565f67d5d71a6aaab2557e
-Section: Applications
-Description: myNotes packaged for myRepo
-Author: myApps
-Name: myNotes
-
 Package: com.myapps.mySport
 Version: 1.0
 Architecture: iphoneos-arm64
 Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/cleaned-com.myapps.mySport_1.0_iphoneos-arm64.deb
+Filename: debs/cleaned-com.myapps.mySport_1.0_iphoneos-arm64.deb
 Size: 22904
 MD5sum: fdd9f06f75b446a6333896f95fc74a13
 SHA1: e7e0e202313dc1f879c191e96dc98e49b7211cc3
@@ -78,67 +46,19 @@ Description: mySport packaged for myRepo
 Author: myApps
 Name: MySport
 
-Package: com.myapps.mySport
-Version: 1.0
-Architecture: iphoneos-arm
-Essential: no
+Package: com.myapps.mytweak
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm64
 Maintainer: myApps
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/cleaned-mySport.deb
-Size: 24928
-MD5sum: c2d5f4cbafe5b2c9514ddaada397b556
-SHA1: 96fe2e4386ae6b3503878388208f1c420dd1faaa
-SHA256: 1672055cfc520be96c84876089ebc15171d45b0fb55245f302a056a863ccbe7b
-Section: Applications
-Description: mySport packaged for myRepo
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.myapps.mytweak_0.0.1-5+debug_iphoneos-arm64.deb
+Size: 5770
+MD5sum: 700eb2a0ed78c6fb1f610b23042dcbb7
+SHA1: e600b9c31b60c0af1917efa0885daa2c484f6ee5
+SHA256: f87fb1d506dabe7d1fca2df3238fbcfb67fe544ef43a3952f5cfc26d7d1082a3
+Section: Tweaks
+Description: Unlocks your iphone without a passcode with a secret button when pressing with 3 fingers! WARNING: USE AT YOUR OWN RISK, I AM NOT LIABLE FOR ANY DAMAGE THIS WILL DO.
 Author: myApps
-Name: MySport
-
-Package: com.myapps.mytweak
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: Zain Abudaqqa
-Installed-Size: 220
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/cleaned-com.myapps.mytweak_0.0.1-1+debug_iphoneos-arm.deb
-Size: 8436
-MD5sum: f0cd35c467c8e5b0948a11c5aebcb56c
-SHA1: aa092ffbfec2acbe109f28d39ddd619fb86681d6
-SHA256: f07d05771706f4ae1bff5169a3780a62056d4d4bf446fa2bf809d04f21c88a71
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Zain Abudaqqa
 Name: myTweak
-
-Package: com.myapps.mytweak
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm64
-Maintainer: Zain Abudaqqa
-Installed-Size: 220
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/cleaned-com.myapps.mytweak_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 8508
-MD5sum: 13142bde2e37d426c3e422f3293398ce
-SHA1: eb1ff33c4ddda190b66b2b2fe1b86ac80458b9f1
-SHA256: 19fe7d029a95c1be2056ed62343f81ada3248f7e951a541f622caba9885a69e9
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Zain Abudaqqa
-Name: myTweak
-
-Package: com.myc.first
-Version: 0.0.1-3+debug
-Architecture: iphoneos-arm64
-Maintainer: Zain Abudaqqa
-Installed-Size: 132
-Filename: ./debs/cleaned-com.myc.first_0.0.1-3+debug_iphoneos-arm64.deb
-Size: 3320
-MD5sum: c55f510e288e8cc77f971e4363e10563
-SHA1: 05ea3e7080b6303d3decada7fd4c363fc3a9e950
-SHA256: 38a1f8f6bd47423ce746677fa9c2c5bbd0a45a9bcb3ff448e13a5a80c623489e
-Section: System
-Description: first
-Tag: role::hacker
-Author: Zain Abudaqqa
-Name: first
 
