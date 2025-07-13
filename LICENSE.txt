@@ -24,7 +24,7 @@ All rights, title, and interest in and to the Software, including all intellectu
 
 If you distribute the Software or derivative works, you must include the following attribution in a visible location (e.g., documentation, about page):
 
-“Powered by myApps © 2025. All rights reserved.”
+“Copyright myApps © 2025. All rights reserved.”
 
 5. No Warranty
 
