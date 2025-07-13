@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/cleaned-com.myapps.myBrowse_1.0_iphoneos-arm64.deb
+Filename: ./debs/cleaned-com.myapps.myBrowse_1.0_iphoneos-arm64.deb
 Size: 100036
 MD5sum: f9a14abcc2310d6817a1b9167ffdfcbc
 SHA1: 6d5e3238d48106a897a2f07f066c18c1685e8ecb
@@ -20,11 +20,11 @@ Architecture: iphoneos-arm64
 Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/cleaned-com.myapps.myNotes_1.0_iphoneos-arm64.deb
-Size: 30784
-MD5sum: 810f2bc407a62097aaf175ac916109a7
-SHA1: bb7876be80a628c413656a5402628f6a48ac903a
-SHA256: 21c55433c08f9699c53857ab293e2ef68cea49f2e06bc0af77ecaa8901813782
+Filename: ./debs/com.myapps.myNotes_1.0_iphoneos-arm64.deb
+Size: 22548
+MD5sum: 466fc83e06da952653dccc191491a5d5
+SHA1: dd85022637956e784866172de97b8796d11d29da
+SHA256: f0e1deb57ea761eb06567785488acce0b122a7431b8b73b35a481c8352fec70f
 Section: Applications
 Description: myNotes packaged for myRepo
 Author: myApps
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm64
 Essential: no
 Maintainer: myApps
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/cleaned-com.myapps.mySport_1.0_iphoneos-arm64.deb
+Filename: ./debs/cleaned-com.myapps.mySport_1.0_iphoneos-arm64.deb
 Size: 22904
 MD5sum: fdd9f06f75b446a6333896f95fc74a13
 SHA1: e7e0e202313dc1f879c191e96dc98e49b7211cc3
@@ -52,7 +52,7 @@ Architecture: iphoneos-arm64
 Maintainer: myApps
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.myapps.mytweak_0.0.1-5+debug_iphoneos-arm64.deb
+Filename: ./debs/com.myapps.mytweak_0.0.1-5+debug_iphoneos-arm64.deb
 Size: 5770
 MD5sum: 700eb2a0ed78c6fb1f610b23042dcbb7
 SHA1: e600b9c31b60c0af1917efa0885daa2c484f6ee5
